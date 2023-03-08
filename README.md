@@ -1,5 +1,5 @@
 ### print('Hi there 👋, welcome to my profile!') <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="50"/>
-<!-- gift from https://github.com/TanZng -->
+<!-- gif from https://github.com/TanZng -->
 
 
 <!--
